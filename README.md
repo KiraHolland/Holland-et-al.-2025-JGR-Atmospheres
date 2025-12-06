@@ -4,6 +4,8 @@
 
 This repository contains the supplemental data files associated with 2022 Mt. Logan ice core accumulation record.
 
+Data Citation: Holland, K. M., Criscitiello, A. S., McConnell, J. R., Markle, B. R., Yousif, H. A. K., Skelton, E., Wensman, S. M., Jensen, B. J. L., Winski, D. A., Campbell, S. W., & Chellman, N. J. (2025). 2022 Mt. Logan Ice Core Accumulation Record & Tephra Geochemistry (1912 – 2020 CE) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.17835046
+
 ## Files Descriptions
 
 ## SI_Holland2025_Accumulation.xlsx
